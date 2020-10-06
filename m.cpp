@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	cout<<"Hppy coding!"<<endl;
+	cout<<"appy coding!"<<endl;
 	return 0;
 }
 
